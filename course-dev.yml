@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url:
+    driver-class-name:
+    username:
+    password:
+  jackson:
+    date-format: yyyy-MM-dd
+  mvc:
+    date-format: yyyy-MM-dd
+server:
+  port: 8080
